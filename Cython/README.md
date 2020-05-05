@@ -94,3 +94,19 @@ Cython tends to generate a lot of different file types, so it is important to un
 ## Benifits
 
 Cython is known as "Python but faster" and for that reason many developers may turn to Cython instead of Python. However, Cython is fast only becasue it generates the C coding language from the Python syntax. Thus, execution times are faster then Python for obvious reasons. So to provide a testing grounds, there is a [timeComparison_Experiment](GitHub.com/abesuden/sandbox/Cython/timeComparison_Experiment) folder set up for comparision purposes. However, writing a program in C is always better (excluding optimizations that Cython makes).
+
+## Versioning
+
+We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/software-engineering/tags).
+
+## Authors
+
+* **Alex Besuden** - *Provided README* - [@abesuden](https://github.com/abesuden)
+
+## License
+
+This project is licensed under the [MIT](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* [Alex Besuden](http://AlexanderBesuden.com) - **Built Repo**
