@@ -80,7 +80,7 @@ A `typescript` can be found in this repo which captured a successful build as we
 Cython tends to generate a lot of different file types, so it is important to understand what each one means. Below is a list of commonly created files and files generated with the commands found in this repo:
 
 | Extension | Description   | Created By |
-|:----------|:-------------:|:----------:|
+|:----------|:--------------|:-----------|
 | .py  | python3 code file  | Developer |
 | .pyx | cython code file   | Developer |
 | .c   | C code file        | Cython    |
