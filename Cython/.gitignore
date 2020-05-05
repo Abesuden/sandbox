@@ -1,0 +1,10 @@
+# Compressed files
+*.src.rock
+*.zip
+*.tar.gz
+
+# Object files
+*.o
+
+# Shared objects
+*.so
