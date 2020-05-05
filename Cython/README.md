@@ -1,8 +1,10 @@
 # Cython Notes
 
-[![Language](https://img.shields.io/badge/Language-Cython-informational.svg)](https://github.com/abesuden/C-minus/contributors)
-[![Requires](https://img.shields.io/badge/Requires-Python3-1abc9c.svg)](https://github.com/abesuden/C-minus/contributors)
-[![Requires](https://img.shields.io/badge/Requires-GCC-1abc9c.svg)](https://github.com/abesuden/C-minus/contributors)
+[![Language](https://img.shields.io/badge/Language-Cython-informational.svg)](https://github.com/abesuden/sandbox/Cython)
+[![Requires](https://img.shields.io/badge/Requires-Python3-1abc9c.svg)](https://github.com/abesuden/sandbox/Cython)
+[![Requires](https://img.shields.io/badge/Requires-GCC-1abc9c.svg)](https://github.com/abesuden/sandbox/Cython)
+
+[![Cython Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png)](https://github.com/abesuden/sandbox/Cython)
 
 ## Requirments
 
