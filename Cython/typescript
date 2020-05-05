@@ -1,0 +1,9 @@
+Script started on 2020-05-05 13:34:26-0400
+]0;groot@SERVER-UNKNOWN: /mnt/c/Users/Root/Documents/GitHub/sandbox/Cython[01;32mgroot@SERVER-UNKNOWN[00m:[01;34m/mnt/c/Users/Root/Documents/GitHub/sandbox/Cython[00m$ lscd Cython/ls[Kcd ..python3 setup.py build_ext --inplace[1P--inplace --inplace
+running build_ext
+]0;groot@SERVER-UNKNOWN: /mnt/c/Users/Root/Documents/GitHub/sandbox/Cython[01;32mgroot@SERVER-UNKNOWN[00m:[01;34m/mnt/c/Users/Root/Documents/GitHub/sandbox/Cython[00m$ python3 setup.py build_ext --inplacels[Kcd Cython/ls[Kcd ..python3 setup.py build_ext --inplace[1P--inplace --inplacecd ..[Kpython3 setup.py build_ext --inplace[1P--inplace --inplacecd ..[K[3Plscd Cython/ls[Kpython3 setup.py build_ext --inplace[Kpython3 setup.py build_ext --inplacels[Kcd Cython/ls[Kcd ..python3 setup.py build_ext --inplace[1P--inplace --inplacel[Kpython3 setup.py build_ext --inplace[1P--inplace --inplacecd ..[K[3Plscd Cython/ls[Kpython3 setup.py build_ext --inplace[Kpython3 runTest.py 
+6
+]0;groot@SERVER-UNKNOWN: /mnt/c/Users/Root/Documents/GitHub/sandbox/Cython[01;32mgroot@SERVER-UNKNOWN[00m:[01;34m/mnt/c/Users/Root/Documents/GitHub/sandbox/Cython[00m$ exit
+exit
+
+Script done on 2020-05-05 13:35:01-0400
