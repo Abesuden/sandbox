@@ -89,3 +89,8 @@ Cython tends to generate a lot of different file types, so it is important to un
 | .html| shared object file | Cython -a |
 
 > The html file is a useful UI for understanding the conversion from python to C.
+
+
+## Benifits
+
+Cython is known as "Python but faster" and for that reason many developers may turn to Cython instead of Python. However, Cython is fast only becasue it generates the C coding language from the Python syntax. Thus, execution times are faster then Python for obvious reasons. So to provide a testing grounds, there is a [timeComparison_Experiment](GitHub.com/abesuden/sandbox/Cython/timeComparison_Experiment) folder set up for comparision purposes. However, writing a program in C is always better (excluding optimizations that Cython makes).
