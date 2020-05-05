@@ -4,7 +4,9 @@
 [![Requires](https://img.shields.io/badge/Requires-Python3-1abc9c.svg)](https://github.com/abesuden/sandbox/Cython)
 [![Requires](https://img.shields.io/badge/Requires-GCC-1abc9c.svg)](https://github.com/abesuden/sandbox/Cython)
 
+<p align="center">
 [![Cython Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png)](https://github.com/abesuden/sandbox/Cython)
+</p>
 
 ## Requirments
 
@@ -75,8 +77,6 @@ A `typescript` can be found in this repo which captured a successful build as we
 
 Cython tends to generate a lot of different file types, so it is important to understand what each one means. Below is a list of commonly created files and files generated with the commands found in this repo:
 
-<p align="center">
-
 | Extension | Description   | Created By |
 |:----------|:-------------:|:----------:|
 | .py  | python3 code file  | Developer |
@@ -85,7 +85,5 @@ Cython tends to generate a lot of different file types, so it is important to un
 | .o   | object file        | Cython    |
 | .so  | shared object file | Cython    |
 | .html| shared object file | Cython -a |
-
-</p>
 
 > The html file is a useful UI for understanding the conversion from python to C.
