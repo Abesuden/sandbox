@@ -70,3 +70,22 @@ cython -a fileName.pyx
 A `typescript` can be found in this repo which captured a successful build as well as a running version of the `testOne.pyx` Cython program.
 
 > Note: there has to be a `.so` file generated during the build so that the `import` will work.
+
+## File Types Generated
+
+Cython tends to generate a lot of different file types, so it is important to understand what each one means. Below is a list of commonly created files and files generated with the commands found in this repo:
+
+<p align="center">
+
+| Extension | Description   | Created By |
+|:----------|:-------------:|:----------:|
+| .py  | python3 code file  | Developer |
+| .pyx | cython code file   | Developer |
+| .c   | C code file        | Cython    |
+| .o   | object file        | Cython    |
+| .so  | shared object file | Cython    |
+| .html| shared object file | Cython -a |
+
+</p>
+
+> The html file is a useful UI for understanding the conversion from python to C.
