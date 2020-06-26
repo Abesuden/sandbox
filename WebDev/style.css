@@ -1,0 +1,39 @@
+/* styles.css using flexbox layout */
+
+/* justify-content: ---  Flex container property that defines the alignment of the flex items. */
+/* flex-basis ---  Flex item property that defines the default size of the item before the remaining space is distributed.*/
+/* flex-direction --- Flex container property that indicates which direction the flex items are placed in the flex container.  */
+/* flex-grow ---  Flex item property that indicates the growth factor of the flex item. */
+/* flex-shrink --- Flex item property that indicates the shrink factor of the flex item.  */
+/* flex: 0 1 auto; means flex-grow:0; flex-shrink:1; flex-basis:auto; */
+
+body {
+    width: 95%;
+    margin: 10px auto;
+    background-color: rgb(167, 135, 94);
+ }
+ 
+ #container {
+    display: flex;
+    flex-direction: row;
+    /* display: flex; flex-direction: column; /* use this to stack elements as columns */ 
+ }
+ 
+   
+ nav {
+    flex: 0 1 20%;
+    background-color: rgb(0, 238, 255);
+    flex: 1   1 auto;
+ }
+ 
+ main {
+    flex: 0 1 60%;
+    background-color: rgb(0, 255, 42);
+    flex: 3.5 1 auto;
+ }
+ 
+ aside {
+    flex: 0 1 20%;
+    background-color: rgb(255, 174, 0);
+    flex: 1   1 auto;
+ }
